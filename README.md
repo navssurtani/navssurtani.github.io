@@ -1,4 +1,3 @@
-navssurtani.github.io
-=====================
+# LICENSE
 
-Personal website (just playing around)
+This is licensed under Creative Commons. More details can be found [here](http://creativecommons.org/licenses/by/3.0/).
