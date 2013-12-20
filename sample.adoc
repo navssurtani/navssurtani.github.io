@@ -1,3 +1,5 @@
+= Sample
+
 A preface about http://asciidoc.org[AsciiDoc]
 
 * Item 1
