@@ -1,0 +1,8 @@
+A preface about http://asciidoc.org[AsciiDoc]
+
+* Item 1
+
+* Item 2
+
+[source, java]
+System.out.println("Here is a line of Java code!);
