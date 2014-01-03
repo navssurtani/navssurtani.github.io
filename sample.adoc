@@ -1,10 +1,5 @@
 = Sample
 
-A preface about http://asciidoc.org[AsciiDoc]
+A sample of some of the cool stuff that I am up to. Beneath, is my Twitter line.
 
-* Item 1
-
-* Item 2
-
-[source, java]
-System.out.println("Here is a line of Java code!);
+```

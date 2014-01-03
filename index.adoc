@@ -1,0 +1,15 @@
+= Navin Surtani
+
+* Software Engineer for JBoss, by Red Hat. Currently living in Singapore
+
+== What is this place?
+
+This is a place that will (hopefully) become a cool little website with my personal information and also links to some *actual* cool stuff. 
+
+There might be some stuff on a page like link:sample.html[this].
+
+== Where else do I exist on the interweb?
+
+* https://www.twitter.com/navssurtani[My Twitter]
+
+* https://navssurtani.blogspot.com[My Blog]
